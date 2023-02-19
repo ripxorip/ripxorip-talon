@@ -26,3 +26,24 @@ tee up:
     key(e)
 
 slap: key(enter)
+
+accept:
+    key(enter)
+    key(enter)
+
+abort:
+    key(ctrl-c)
+
+parent:
+    "c .."
+    key(enter)
+
+ls:
+    "l"
+    key(enter)
+
+clear:
+    key(ctrl-l)
+
+open:
+    key(ctrl-t)
