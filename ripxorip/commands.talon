@@ -47,3 +47,6 @@ clear:
 
 open:
     key(ctrl-t)
+
+kite:
+    key(backspace)
