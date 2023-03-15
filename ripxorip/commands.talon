@@ -43,6 +43,7 @@ ls:
     key(enter)
 
 clear:
+    key(ctrl-c)
     key(ctrl-l)
 
 open:
@@ -50,3 +51,17 @@ open:
 
 kite:
     key(backspace)
+
+whim save:
+    key(escape)
+    ":w"
+    key(enter)
+
+whim quit:
+    key(escape)
+    ":q"
+    key(enter)
+
+whim undo:
+    key(escape)
+    "u"
