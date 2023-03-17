@@ -65,3 +65,6 @@ whim quit:
 whim undo:
     key(escape)
     "u"
+
+launch:
+    key(alt-space)
