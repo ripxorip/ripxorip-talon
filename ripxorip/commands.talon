@@ -71,3 +71,7 @@ launch:
 
 check:
     key(ctrl-o)
+
+whim find:
+    ":Rg"
+    key(enter)
