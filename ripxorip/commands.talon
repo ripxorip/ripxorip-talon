@@ -68,3 +68,6 @@ whim undo:
 
 launch:
     key(alt-space)
+
+check:
+    key(ctrl-o)
