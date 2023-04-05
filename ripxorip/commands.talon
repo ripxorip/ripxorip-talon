@@ -25,6 +25,10 @@ tee up:
     key(ctrl-a)
     key(e)
 
+tee pace:
+    key(ctrl-a)
+    key(])
+
 slap: key(enter)
 
 accept:
